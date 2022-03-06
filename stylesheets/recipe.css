@@ -1,0 +1,27 @@
+body
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: lightgoldenrodyellow;
+    font-size: 20px;
+}
+
+h1
+{
+    color: red;
+}
+
+h2
+{
+    color: green;
+}
+
+ul
+{
+    font-size: 22px;
+}
+
+img
+{
+    height: 500px;
+    width: 500px;
+}
